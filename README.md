@@ -21,6 +21,6 @@ Each concept includes:
 - Python 3.11
 - NumPy,pandas,tensorflow , keras
 - Matplotlib (for visualization)
-- Jupyter Notebooks (optional)
+
   
        
