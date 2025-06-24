@@ -8,7 +8,7 @@ Each concept includes:
 ## ✅ Completed Modules
 
 ### 1. Perceptron
-- `perceptron.py`: Code 
+-  Code 
 - `Perceptron_Explanation.docx`: theory
 
 ##  Upcoming Topics
