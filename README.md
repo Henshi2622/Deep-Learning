@@ -5,13 +5,9 @@ Each concept includes:
 - 🔢 Python implementation
 - 🧠 Theoretical background (Word format)
 
-## ✅ Completed Modules
 
-### 1. Perceptron
--  Code 
-- `Perceptron_Explanation.docx`: theory
 
-##  Upcoming Topics
+##  Topics
  -  **profiling**
  -  **Artificial Neural Network (ANN)**
  -  **Convolutional Neural Networks (CNNs)**
